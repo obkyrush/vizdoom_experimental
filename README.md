@@ -1,6 +1,6 @@
 # vizdoom_experimental
-Testing algorithms in vizdoom environment
-
+Testing algorithms in vizdoom environment  
+![](https://github.com/obkyrush/vizdoom_experimental/blob/main/gifs/deadly_corridor1.gif "Deadly corridor")
 ## quick start
 `python main.py`  
 
